@@ -1,6 +1,6 @@
 # Real-World-Algorithms-for-IoT-and-Data-Science-Portfolio
 
-ECE/CS 434 Real-World Algorithms for IoT and Data Science (formally called Mobile Computing and Applications) [Course Notion Page](https://rrc-uiuc.notion.site/Real-World-Algorithms-for-IoT-and-Data-Science-74d8f612f74a4c1689760dafa31ef93d)
+ECE/CS 434 Real-World Algorithms for IoT and Data Science (formally called Mobile Computing and Applications) [Course Webpage](https://rrc-uiuc.notion.site/Real-World-Algorithms-for-IoT-and-Data-Science-74d8f612f74a4c1689760dafa31ef93d)
 
 
 This course focuses on math and algorithms in the context of applications. Some of the applications are as follows:
